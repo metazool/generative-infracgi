@@ -1,5 +1,5 @@
 # generative-infracgi
-A generative version of the InfraCGI project
+A generative version of the Infrastructure CGI project. Comedy value only, not affiliated with [InfraCGI](https://infracgi.com/)
 
 ## Contents
 
