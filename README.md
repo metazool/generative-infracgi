@@ -3,7 +3,7 @@ A generative version of the Infrastructure CGI project. Comedy value only, not a
 
 ## Contents
 
-* A simple [notebook runnable on Colab](Generative_InfraCGI.ipynb), showing use of Huggingface models to remove roads, vehicles and street furniture from images and replace it with imaginary infrastructure. Works on any web-based street view image
+* A simple [notebook runnable on Colab](Generative_InfraCGI.ipynb), showing use of Huggingface models to remove roads, vehicles and street furniture from images and replace it with imaginary infrastructure. Works on any web-based street view image, purely from text prompts with no visual editing or manual intervention.
 
 ## Contributing
 
