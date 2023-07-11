@@ -11,5 +11,5 @@ I would love any contributions, whether interfaces to make it more accessible, i
 
 ## Contact
 
-[Generative InfraCGI](https://mastodon.scot/@GenInfraCGI/with_replies) has its own Mastodon account and you are warmly invited to send pictures to it there and get back parallel responses to them.
+[Generative InfraCGI](https://mastodon.scot/@GenInfraCGI/with_replies) has its own <a rel="me" href="https://mastodon.scot/@GenInfraCGI">Mastodon</a> account and you are warmly invited to send pictures to it there and get back parallel responses to them.
 
